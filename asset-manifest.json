@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/host-recom-website1/static/css/main.08d1c3c4.css",
+    "main.js": "/host-recom-website1/static/js/main.4bee4fa0.js",
+    "static/js/592.c57cb18d.chunk.js": "/host-recom-website1/static/js/592.c57cb18d.chunk.js",
+    "static/media/movie.jpg": "/host-recom-website1/static/media/movie.b0a719f7d6ac3881a81f.jpg",
+    "static/media/Town_of_Windmill.mp3": "/host-recom-website1/static/media/Town_of_Windmill.42bff220024a484fadda.mp3",
+    "static/media/still-life.png": "/host-recom-website1/static/media/still-life.50c62b8e72b218c096b2.png",
+    "static/media/TheTaleofPeterRabbit.jpg": "/host-recom-website1/static/media/TheTaleofPeterRabbit.feb211592e56ee47be9c.jpg",
+    "static/media/usricon.jpg": "/host-recom-website1/static/media/usricon.44b518d2fb9633f7ffab.jpg",
+    "static/media/and_then_there_were_none.jpg": "/host-recom-website1/static/media/and_then_there_were_none.20df6cfa1fd033b8014c.jpg",
+    "static/media/book.jpg": "/host-recom-website1/static/media/book.2295b3dd660268fc64a5.jpg",
+    "static/media/TheLittlePrince.jpg": "/host-recom-website1/static/media/TheLittlePrince.988b8013c032099a7423.jpg",
+    "static/media/goodreads.png": "/host-recom-website1/static/media/goodreads.b1789f1c8bb58b4b74b4.png",
+    "static/media/Spotify.png": "/host-recom-website1/static/media/Spotify.0c4ae91bae23217d39c9.png",
+    "static/media/IntroToAlgo.jpg": "/host-recom-website1/static/media/IntroToAlgo.755b685ceb7b2525b728.jpg",
+    "static/media/music.jpg": "/host-recom-website1/static/media/music.14b3110677e752d8a6ae.jpg",
+    "static/media/spotifyTick2-cropped.png": "/host-recom-website1/static/media/spotifyTick2-cropped.2d385af3af32eb0f2c6a.png",
+    "static/media/Life_After_Life.jpg": "/host-recom-website1/static/media/Life_After_Life.1812a9959dcb0498fd48.jpg",
+    "static/media/revicons.eot": "/host-recom-website1/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/host-recom-website1/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/movieIcon.svg": "/host-recom-website1/static/media/movieIcon.baa929c21a8f44576bb87798cc740942.svg",
+    "static/media/revicons.woff": "/host-recom-website1/static/media/revicons.e8746a624ed098489406.woff",
+    "static/media/songIcon.svg": "/host-recom-website1/static/media/songIcon.28d634f2fba0609f284664f3cbf75e41.svg",
+    "static/media/bookIcon.svg": "/host-recom-website1/static/media/bookIcon.10a088f8b750b2a3e3d3e1919200a67c.svg",
+    "index.html": "/host-recom-website1/index.html",
+    "main.08d1c3c4.css.map": "/host-recom-website1/static/css/main.08d1c3c4.css.map",
+    "main.4bee4fa0.js.map": "/host-recom-website1/static/js/main.4bee4fa0.js.map",
+    "592.c57cb18d.chunk.js.map": "/host-recom-website1/static/js/592.c57cb18d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.08d1c3c4.css",
+    "static/js/main.4bee4fa0.js"
+  ]
+}
